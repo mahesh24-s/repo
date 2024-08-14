@@ -22,6 +22,11 @@ void sort(){
 void mergesort(){
     return ;
 }
+
+void quicksort(){
+
+}
+
 // void printList(Node* node) 
 // { 
 //     while (node != NULL) { 
