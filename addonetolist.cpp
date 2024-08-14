@@ -15,6 +15,9 @@ struct Node
     }
 };
 
+void mergesort(){
+    return ;
+}
 // void printList(Node* node) 
 // { 
 //     while (node != NULL) { 
