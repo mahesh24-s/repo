@@ -18,6 +18,10 @@ struct Node
 void sort(){
     cout<<"testing the git"<<endl;
 }
+
+void mergesort(){
+    return ;
+}
 // void printList(Node* node) 
 // { 
 //     while (node != NULL) { 
